@@ -12,7 +12,7 @@ const ReceiptHead = () => {
       </div>
 
       {/* // Thanks Message */}
-      <div className="thanks-message d-flex flex-column mb-3 justify-content-center">
+      <div className="thanks-message d-flex flex-column justify-content-center">
         <i class="fa-regular fa-circle-check text-center mb-2"></i>
         <p className="text-muted">
           Thank you,

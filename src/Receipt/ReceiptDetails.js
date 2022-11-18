@@ -3,7 +3,7 @@ import Product from "./Product";
 
 const ReceiptDetails = () => {
   return (
-    <div className="container my-3 border border-1 rounded p-3">
+    <div className="Receipt-Details container my-3 border border-1 rounded-border p-3">
       <div className="row py-2 border-bottom">
         {/** Order Information Details */}
         <div className="col-md-8 pe-4">

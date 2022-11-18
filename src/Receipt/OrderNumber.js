@@ -4,7 +4,7 @@ import "./styles/Receipt.css";
 
 const OrderNumber = () => {
   return (
-    <div className="OrderNumber container my-1 border border-1 rounded p-3">
+    <div className="Order-Number container border border-1 rounded-border p-3">
       <div className="row">
         {/*  // Order Summary */}
 

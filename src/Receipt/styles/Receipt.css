@@ -13,6 +13,14 @@
     margin-bottom: -55px;
 }
 
+.Order-Number{
+    background-color: #fff;
+}
+
+.Receipt-Details{
+    background-color: #fff;
+    }
+
 .thanks-message{
     margin-top: 30px;
     padding-top: 50px;
@@ -32,6 +40,10 @@
     border-left: 2px solid #afb3af;
     
   }
+
+.rounded-border{
+    border-radius: 1.5rem;
+}
 
 .product_heading{
     background-color: #afb3af;
