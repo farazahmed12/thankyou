@@ -1,0 +1,81 @@
+.receipt-head {
+}
+
+.container-fluid{
+    padding: 0;
+}
+
+.logo-medium {
+    max-width: 110px;
+    min-width: 110px;
+    border-radius: 2rem;
+    padding: 0.5rem;
+    margin-bottom: -55px;
+}
+
+.thanks-message{
+    margin-top: 30px;
+    padding-top: 50px;
+    background-color: #f2f4f5;
+}
+
+.thanks-message > i{
+    color: #45c234;
+    font-size: 3.5rem;
+}
+
+.thanks-message > p{
+    text-align: center;
+}
+
+.vertical-line {
+    border-left: 2px solid #afb3af;
+    
+  }
+
+.product_heading{
+    background-color: #afb3af;
+    
+}
+
+
+
+/* Icons CSS */
+
+.fa-location-dot,
+.fa-credit-card,
+.fa-cart-shopping{
+    font-size: 24px;
+    color: #d1ab5a;
+}
+
+/** Buttons CSS  */
+.btn-success{
+    background-color: #45c234;
+    height: 34px;
+}
+
+.btn-success:hover{
+    background-color: #45c234;
+    opacity: 0.8;
+    
+}
+
+.btn-warning{
+    background-color: #d1ab5a;
+    border-style: none;
+    color: white;
+}
+.btn-warning:hover{
+    background-color: #d1ab5a;
+    border-style: none;
+    color: white;
+    opacity: 0.8;
+}
+.print_btn {
+    margin-top: 80px;
+}
+
+
+
+
